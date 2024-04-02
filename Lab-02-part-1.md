@@ -155,7 +155,7 @@ class sbyte
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 byte
 @startuml
@@ -172,7 +172,7 @@ class byte
   + ToString(...) : string
 }
 @enduml
-
+image
 
 short
 @startuml
@@ -189,7 +189,7 @@ class short
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 ushort
 @startuml
@@ -206,7 +206,7 @@ class ushort
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 int
 @startuml
@@ -223,7 +223,7 @@ class int
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 uint
 @startuml
@@ -240,7 +240,7 @@ class uint
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 long
 @startuml
@@ -257,7 +257,7 @@ class long
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 ulong
 @startuml
@@ -274,7 +274,7 @@ class ulong
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 float
 @startuml
@@ -294,7 +294,7 @@ class float
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 double
 @startuml
@@ -314,7 +314,7 @@ class Double
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 bool
 @startuml
@@ -331,7 +331,7 @@ class bool
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 char
 @startuml
@@ -348,7 +348,7 @@ class char
   + ToString(...) : string
 }
 @enduml
-    
+image
 
 decimal
 @startuml
@@ -358,7 +358,7 @@ class decimal
   + decimal(Currency value) : decimal
 }
 @enduml
-    
+image
 
 object
 @startuml
@@ -367,7 +367,7 @@ class object
   + Type(...) : GetType
 }
 @enduml
-
+image
 
 string
 @startuml
@@ -377,7 +377,7 @@ class string
   + IsInterned(...) : string 
 }
 @enduml
-    
+image
 
 dynamic
 dynamic ใน C# ไม่ได้มีการกำหนดประเภทข้อมูลแบบมีโครงสร้าง (structure) และมีการติดต่อกับทุกประเภทข้อมูลใน runtime โดยไม่มีการตรวจสอบประเภทใน compile time จึงไม่มีข้อมูลที่แน่นอน
