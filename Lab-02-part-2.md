@@ -47,3 +47,7 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+ส่ง
+![l2 1](https://github.com/NathaphonTan/03376836-OOP-2566-Lab-02/assets/144870609/87b00017-aec8-4c94-9f38-8caab58f10b6)
+![l2 2](https://github.com/NathaphonTan/03376836-OOP-2566-Lab-02/assets/144870609/b5ab3ee4-3d78-47f5-8fdb-47fe895b9f94)
